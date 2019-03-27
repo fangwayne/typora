@@ -24,7 +24,7 @@ Writing LATEX: $\lim_{x \to \infty} \exp(-x)=0​$
 
 利用markdown在编写文档时插入图片是默认靠左，有些时候将图片设置为居中时可以更加的美观，这时就需要在图片的信息前边添加如下程序
 
-<div align=center>![这里写图片描述](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1553656827307&di=36aeda6511f91f15a20876f81ddf6873&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fblog%2F201308%2F30%2F20130830162506_kmfuy.thumb.100_100_c.gif)</div>
+<div align=center>![img](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1553656827307&di=36aeda6511f91f15a20876f81ddf6873&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fblog%2F201308%2F30%2F20130830162506_kmfuy.thumb.100_100_c.gif)</div>
 
 
     <div align=center>![](http://xx.xx.xx)
